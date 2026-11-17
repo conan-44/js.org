@@ -3142,6 +3142,7 @@ var cnames_active = {
   "skiyee": "skiyee.pages.dev",
   "skratch": "websyncs.github.io/skratch",
   "sksamim": "esksamim.github.io/sksamim",
+  "skv": "conan-44.github.io/skv",
   "skyle": "skylejs.github.io/skyle",
   "skyware": "skyware-js.github.io/web", // noCF
   "slang": "ramadis.github.io/slang", // noCF? (don´t add this in a new PR)
